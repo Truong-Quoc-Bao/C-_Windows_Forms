@@ -1,0 +1,10 @@
+C:\Users\truongquocbao\source\repos\WindowsFormsApp_Bai_1\WindowsFormsApp_Bai_1\bin\Debug\WindowsFormsApp_Bai_1.exe.config
+C:\Users\truongquocbao\source\repos\WindowsFormsApp_Bai_1\WindowsFormsApp_Bai_1\bin\Debug\WindowsFormsApp_Bai_1.exe
+C:\Users\truongquocbao\source\repos\WindowsFormsApp_Bai_1\WindowsFormsApp_Bai_1\bin\Debug\WindowsFormsApp_Bai_1.pdb
+C:\Users\truongquocbao\source\repos\WindowsFormsApp_Bai_1\WindowsFormsApp_Bai_1\obj\Debug\WindowsFormsApp_Bai_1.csproj.AssemblyReference.cache
+C:\Users\truongquocbao\source\repos\WindowsFormsApp_Bai_1\WindowsFormsApp_Bai_1\obj\Debug\WindowsFormsApp_Bai_1.Properties.Resources.resources
+C:\Users\truongquocbao\source\repos\WindowsFormsApp_Bai_1\WindowsFormsApp_Bai_1\obj\Debug\WindowsFormsApp_Bai_1.csproj.GenerateResource.cache
+C:\Users\truongquocbao\source\repos\WindowsFormsApp_Bai_1\WindowsFormsApp_Bai_1\obj\Debug\WindowsFormsApp_Bai_1.csproj.CoreCompileInputs.cache
+C:\Users\truongquocbao\source\repos\WindowsFormsApp_Bai_1\WindowsFormsApp_Bai_1\obj\Debug\WindowsFormsApp_Bai_1.exe
+C:\Users\truongquocbao\source\repos\WindowsFormsApp_Bai_1\WindowsFormsApp_Bai_1\obj\Debug\WindowsFormsApp_Bai_1.pdb
+C:\Users\truongquocbao\source\repos\WindowsFormsApp_Bai_1\WindowsFormsApp_Bai_1\obj\Debug\WindowsFormsApp_Bai_1.Form1.resources
